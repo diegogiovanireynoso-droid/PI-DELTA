@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="614" font-family="Arial, sans-serif">
+<rect width="760" height="614" fill="white"/>
+<text x="380.0" y="22" text-anchor="middle" font-size="14" font-weight="bold">Durante el Q3: ofensiva</text>
+<rect x="80" y="36" width="12" height="12" fill="#1f6feb" opacity="1"/><text x="97" y="47" font-size="11">Local entra</text>
+<rect x="240" y="36" width="12" height="12" fill="#1f6feb" opacity="0.35"/><text x="257" y="47" font-size="11">Local sale</text>
+<rect x="400" y="36" width="12" height="12" fill="#e5534b" opacity="1"/><text x="417" y="47" font-size="11">Visitante entra</text>
+<rect x="560" y="36" width="12" height="12" fill="#e5534b" opacity="0.35"/><text x="577" y="47" font-size="11">Visitante sale</text>
+<text x="62" y="96" text-anchor="end" font-size="12" font-weight="bold">WR</text>
+<rect x="70" y="70" width="571.2540716612378" height="10" fill="#1f6feb" opacity="1"/>
+<text x="645.2540716612378" y="79" font-size="9">58 (456)</text>
+<rect x="70" y="82" width="551.3843648208469" height="10" fill="#1f6feb" opacity="0.35"/>
+<text x="625.3843648208469" y="91" font-size="9">56 (440)</text>
+<rect x="70" y="94" width="610.0" height="10" fill="#e5534b" opacity="1"/>
+<text x="684.0" y="103" font-size="9">61 (491)</text>
+<rect x="70" y="106" width="567.2801302931596" height="10" fill="#e5534b" opacity="0.35"/>
+<text x="641.2801302931596" y="115" font-size="9">57 (457)</text>
+<text x="62" y="152" text-anchor="end" font-size="12" font-weight="bold">TE</text>
+<rect x="70" y="126" width="417.2638436482085" height="10" fill="#1f6feb" opacity="1"/>
+<text x="491.2638436482085" y="135" font-size="9">42 (333)</text>
+<rect x="70" y="138" width="424.2182410423453" height="10" fill="#1f6feb" opacity="0.35"/>
+<text x="498.2182410423453" y="147" font-size="9">43 (339)</text>
+<rect x="70" y="150" width="448.0618892508143" height="10" fill="#e5534b" opacity="1"/>
+<text x="522.0618892508144" y="159" font-size="9">45 (361)</text>
+<rect x="70" y="162" width="490.78175895765474" height="10" fill="#e5534b" opacity="0.35"/>
+<text x="564.7817589576548" y="171" font-size="9">49 (395)</text>
+<text x="62" y="208" text-anchor="end" font-size="12" font-weight="bold">RB</text>
+<rect x="70" y="182" width="397.3941368078176" height="10" fill="#1f6feb" opacity="1"/>
+<text x="471.3941368078176" y="191" font-size="9">40 (317)</text>
+<rect x="70" y="194" width="401.3680781758958" height="10" fill="#1f6feb" opacity="0.35"/>
+<text x="475.3680781758958" y="203" font-size="9">40 (320)</text>
+<rect x="70" y="206" width="407.328990228013" height="10" fill="#e5534b" opacity="1"/>
+<text x="481.328990228013" y="215" font-size="9">41 (328)</text>
+<rect x="70" y="218" width="406.3355048859935" height="10" fill="#e5534b" opacity="0.35"/>
+<text x="480.3355048859935" y="227" font-size="9">41 (327)</text>
+<text x="62" y="264" text-anchor="end" font-size="12" font-weight="bold">FB</text>
+<rect x="70" y="238" width="47.68729641693811" height="10" fill="#1f6feb" opacity="1"/>
+<text x="121.68729641693811" y="247" font-size="9">5 (38)</text>
+<rect x="70" y="250" width="52.65472312703583" height="10" fill="#1f6feb" opacity="0.35"/>
+<text x="126.65472312703582" y="259" font-size="9">5 (42)</text>
+<rect x="70" y="262" width="25.830618892508145" height="10" fill="#e5534b" opacity="1"/>
+<text x="99.83061889250814" y="271" font-size="9">3 (21)</text>
+<rect x="70" y="274" width="28.811074918566774" height="10" fill="#e5534b" opacity="0.35"/>
+<text x="102.81107491856677" y="283" font-size="9">3 (23)</text>
+<text x="62" y="320" text-anchor="end" font-size="12" font-weight="bold">T</text>
+<rect x="70" y="294" width="15.895765472312704" height="10" fill="#1f6feb" opacity="1"/>
+<text x="89.8957654723127" y="303" font-size="9">2 (13)</text>
+<rect x="70" y="306" width="18.876221498371336" height="10" fill="#1f6feb" opacity="0.35"/>
+<text x="92.87622149837134" y="315" font-size="9">2 (15)</text>
+<rect x="70" y="318" width="19.86970684039088" height="10" fill="#e5534b" opacity="1"/>
+<text x="93.86970684039088" y="327" font-size="9">2 (16)</text>
+<rect x="70" y="330" width="19.86970684039088" height="10" fill="#e5534b" opacity="0.35"/>
+<text x="93.86970684039088" y="339" font-size="9">2 (16)</text>
+<text x="62" y="376" text-anchor="end" font-size="12" font-weight="bold">G</text>
+<rect x="70" y="350" width="9.93485342019544" height="10" fill="#1f6feb" opacity="1"/>
+<text x="83.93485342019544" y="359" font-size="9">1 (8)</text>
+<rect x="70" y="362" width="9.93485342019544" height="10" fill="#1f6feb" opacity="0.35"/>
+<text x="83.93485342019544" y="371" font-size="9">1 (8)</text>
+<rect x="70" y="374" width="9.93485342019544" height="10" fill="#e5534b" opacity="1"/>
+<text x="83.93485342019544" y="383" font-size="9">1 (8)</text>
+<rect x="70" y="386" width="11.921824104234528" height="10" fill="#e5534b" opacity="0.35"/>
+<text x="85.92182410423453" y="395" font-size="9">1 (10)</text>
+<text x="62" y="432" text-anchor="end" font-size="12" font-weight="bold">C</text>
+<rect x="70" y="406" width="4.96742671009772" height="10" fill="#1f6feb" opacity="1"/>
+<text x="78.96742671009773" y="415" font-size="9">0 (4)</text>
+<rect x="70" y="418" width="5.960912052117264" height="10" fill="#1f6feb" opacity="0.35"/>
+<text x="79.96091205211727" y="427" font-size="9">1 (5)</text>
+<rect x="70" y="430" width="9.93485342019544" height="10" fill="#e5534b" opacity="1"/>
+<text x="83.93485342019544" y="439" font-size="9">1 (8)</text>
+<rect x="70" y="442" width="5.960912052117264" height="10" fill="#e5534b" opacity="0.35"/>
+<text x="79.96091205211727" y="451" font-size="9">1 (5)</text>
+<text x="62" y="488" text-anchor="end" font-size="12" font-weight="bold">QB</text>
+<rect x="70" y="462" width="8.941368078175897" height="10" fill="#1f6feb" opacity="1"/>
+<text x="82.9413680781759" y="471" font-size="9">1 (7)</text>
+<rect x="70" y="474" width="8.941368078175897" height="10" fill="#1f6feb" opacity="0.35"/>
+<text x="82.9413680781759" y="483" font-size="9">1 (7)</text>
+<rect x="70" y="486" width="1.986970684039088" height="10" fill="#e5534b" opacity="1"/>
+<text x="75.9869706840391" y="495" font-size="9">0 (2)</text>
+<rect x="70" y="498" width="1.986970684039088" height="10" fill="#e5534b" opacity="0.35"/>
+<text x="75.9869706840391" y="507" font-size="9">0 (2)</text>
+<text x="62" y="544" text-anchor="end" font-size="12" font-weight="bold">LB</text>
+<rect x="70" y="518" width="0.993485342019544" height="10" fill="#1f6feb" opacity="1"/>
+<text x="74.99348534201954" y="527" font-size="9">0 (1)</text>
+<rect x="70" y="530" width="0.993485342019544" height="10" fill="#1f6feb" opacity="0.35"/>
+<text x="74.99348534201954" y="539" font-size="9">0 (1)</text>
+<rect x="70" y="542" width="0.0" height="10" fill="#e5534b" opacity="1"/>
+<text x="74.0" y="551" font-size="9">0 (0)</text>
+<rect x="70" y="554" width="0.0" height="10" fill="#e5534b" opacity="0.35"/>
+<text x="74.0" y="563" font-size="9">0 (0)</text>
+<text x="380.0" y="604" text-anchor="middle" font-size="10">Jugadores por cada 100 cambios de jugada; entre parentesis, el conteo bruto.</text>
+</svg>

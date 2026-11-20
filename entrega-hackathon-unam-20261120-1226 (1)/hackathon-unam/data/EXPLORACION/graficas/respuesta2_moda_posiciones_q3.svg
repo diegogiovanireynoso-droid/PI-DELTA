@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="880" font-family="Arial, sans-serif">
+<rect width="760" height="880" fill="white"/>
+<text x="380.0" y="24" text-anchor="middle" font-size="15" font-weight="bold">3er cuarto: posiciones que entran y salen, por equipo</text>
+<text x="70" y="58" font-size="14" font-weight="bold">Ofensiva</text>
+<rect x="200" y="47" width="12" height="12" fill="#1f6feb" opacity="1"/><text x="217" y="57" font-size="11">Local entra</text>
+<rect x="340" y="47" width="12" height="12" fill="#1f6feb" opacity="0.35"/><text x="357" y="57" font-size="11">Local sale</text>
+<rect x="480" y="47" width="12" height="12" fill="#e5534b" opacity="1"/><text x="497" y="57" font-size="11">Visitante entra</text>
+<rect x="620" y="47" width="12" height="12" fill="#e5534b" opacity="0.35"/><text x="637" y="57" font-size="11">Visitante sale</text>
+<text x="62" y="104" text-anchor="end" font-size="13" font-weight="bold">WR</text>
+<rect x="70" y="74" width="557.2301425661915" height="12" fill="#1f6feb" opacity="1" stroke="black" stroke-width="2"/>
+<text x="631.2301425661915" y="84" font-size="10">456 (moda)</text>
+<rect x="70" y="89" width="537.6782077393075" height="12" fill="#1f6feb" opacity="0.35" stroke="black" stroke-width="2"/>
+<text x="611.6782077393075" y="99" font-size="10">440 (moda)</text>
+<rect x="70" y="104" width="600.0" height="12" fill="#e5534b" opacity="1" stroke="black" stroke-width="2"/>
+<text x="674.0" y="114" font-size="10">491 (moda)</text>
+<rect x="70" y="119" width="558.4521384928717" height="12" fill="#e5534b" opacity="0.35" stroke="black" stroke-width="2"/>
+<text x="632.4521384928717" y="129" font-size="10">457 (moda)</text>
+<text x="62" y="176" text-anchor="end" font-size="13" font-weight="bold">TE</text>
+<rect x="70" y="146" width="406.9246435845214" height="12" fill="#1f6feb" opacity="1"/>
+<text x="480.9246435845214" y="156" font-size="10">333</text>
+<rect x="70" y="161" width="414.25661914460284" height="12" fill="#1f6feb" opacity="0.35"/>
+<text x="488.25661914460284" y="171" font-size="10">339</text>
+<rect x="70" y="176" width="441.14052953156823" height="12" fill="#e5534b" opacity="1"/>
+<text x="515.1405295315683" y="186" font-size="10">361</text>
+<rect x="70" y="191" width="482.6883910386965" height="12" fill="#e5534b" opacity="0.35"/>
+<text x="556.6883910386965" y="201" font-size="10">395</text>
+<text x="62" y="248" text-anchor="end" font-size="13" font-weight="bold">RB</text>
+<rect x="70" y="218" width="387.3727087576375" height="12" fill="#1f6feb" opacity="1"/>
+<text x="461.3727087576375" y="228" font-size="10">317</text>
+<rect x="70" y="233" width="391.0386965376782" height="12" fill="#1f6feb" opacity="0.35"/>
+<text x="465.0386965376782" y="243" font-size="10">320</text>
+<rect x="70" y="248" width="400.81466395112017" height="12" fill="#e5534b" opacity="1"/>
+<text x="474.81466395112017" y="258" font-size="10">328</text>
+<rect x="70" y="263" width="399.59266802443994" height="12" fill="#e5534b" opacity="0.35"/>
+<text x="473.59266802443994" y="273" font-size="10">327</text>
+<text x="62" y="320" text-anchor="end" font-size="13" font-weight="bold">FB</text>
+<rect x="70" y="290" width="46.435845213849284" height="12" fill="#1f6feb" opacity="1"/>
+<text x="120.43584521384929" y="300" font-size="10">38</text>
+<rect x="70" y="305" width="51.323828920570264" height="12" fill="#1f6feb" opacity="0.35"/>
+<text x="125.32382892057026" y="315" font-size="10">42</text>
+<rect x="70" y="320" width="25.661914460285132" height="12" fill="#e5534b" opacity="1"/>
+<text x="99.66191446028513" y="330" font-size="10">21</text>
+<rect x="70" y="335" width="28.105906313645622" height="12" fill="#e5534b" opacity="0.35"/>
+<text x="102.10590631364562" y="345" font-size="10">23</text>
+<text x="62" y="392" text-anchor="end" font-size="13" font-weight="bold">T</text>
+<rect x="70" y="362" width="15.885947046843178" height="12" fill="#1f6feb" opacity="1"/>
+<text x="89.88594704684317" y="372" font-size="10">13</text>
+<rect x="70" y="377" width="18.329938900203665" height="12" fill="#1f6feb" opacity="0.35"/>
+<text x="92.32993890020367" y="387" font-size="10">15</text>
+<rect x="70" y="392" width="19.55193482688391" height="12" fill="#e5534b" opacity="1"/>
+<text x="93.55193482688391" y="402" font-size="10">16</text>
+<rect x="70" y="407" width="19.55193482688391" height="12" fill="#e5534b" opacity="0.35"/>
+<text x="93.55193482688391" y="417" font-size="10">16</text>
+<text x="70" y="472" font-size="14" font-weight="bold">Defensiva</text>
+<rect x="200" y="461" width="12" height="12" fill="#1f6feb" opacity="1"/><text x="217" y="471" font-size="11">Local entra</text>
+<rect x="340" y="461" width="12" height="12" fill="#1f6feb" opacity="0.35"/><text x="357" y="471" font-size="11">Local sale</text>
+<rect x="480" y="461" width="12" height="12" fill="#e5534b" opacity="1"/><text x="497" y="471" font-size="11">Visitante entra</text>
+<rect x="620" y="461" width="12" height="12" fill="#e5534b" opacity="0.35"/><text x="637" y="471" font-size="11">Visitante sale</text>
+<text x="62" y="518" text-anchor="end" font-size="13" font-weight="bold">DE</text>
+<rect x="70" y="488" width="573.2142857142857" height="12" fill="#1f6feb" opacity="1" stroke="black" stroke-width="2"/>
+<text x="647.2142857142857" y="498" font-size="10">428 (moda)</text>
+<rect x="70" y="503" width="559.8214285714286" height="12" fill="#1f6feb" opacity="0.35" stroke="black" stroke-width="2"/>
+<text x="633.8214285714286" y="513" font-size="10">418 (moda)</text>
+<rect x="70" y="518" width="600.0" height="12" fill="#e5534b" opacity="1" stroke="black" stroke-width="2"/>
+<text x="674.0" y="528" font-size="10">448 (moda)</text>
+<rect x="70" y="533" width="600.0" height="12" fill="#e5534b" opacity="0.35" stroke="black" stroke-width="2"/>
+<text x="674.0" y="543" font-size="10">448 (moda)</text>
+<text x="62" y="590" text-anchor="end" font-size="13" font-weight="bold">DT</text>
+<rect x="70" y="560" width="496.875" height="12" fill="#1f6feb" opacity="1"/>
+<text x="570.875" y="570" font-size="10">371</text>
+<rect x="70" y="575" width="519.6428571428571" height="12" fill="#1f6feb" opacity="0.35"/>
+<text x="593.6428571428571" y="585" font-size="10">388</text>
+<rect x="70" y="590" width="454.01785714285717" height="12" fill="#e5534b" opacity="1"/>
+<text x="528.0178571428571" y="600" font-size="10">339</text>
+<rect x="70" y="605" width="466.07142857142856" height="12" fill="#e5534b" opacity="0.35"/>
+<text x="540.0714285714286" y="615" font-size="10">348</text>
+<text x="62" y="662" text-anchor="end" font-size="13" font-weight="bold">OLB</text>
+<rect x="70" y="632" width="458.0357142857143" height="12" fill="#1f6feb" opacity="1"/>
+<text x="532.0357142857142" y="642" font-size="10">342</text>
+<rect x="70" y="647" width="456.69642857142856" height="12" fill="#1f6feb" opacity="0.35"/>
+<text x="530.6964285714286" y="657" font-size="10">341</text>
+<rect x="70" y="662" width="443.30357142857144" height="12" fill="#e5534b" opacity="1"/>
+<text x="517.3035714285714" y="672" font-size="10">331</text>
+<rect x="70" y="677" width="432.5892857142857" height="12" fill="#e5534b" opacity="0.35"/>
+<text x="506.5892857142857" y="687" font-size="10">323</text>
+<text x="62" y="734" text-anchor="end" font-size="13" font-weight="bold">CB</text>
+<rect x="70" y="704" width="231.69642857142858" height="12" fill="#1f6feb" opacity="1"/>
+<text x="305.69642857142856" y="714" font-size="10">173</text>
+<rect x="70" y="719" width="203.57142857142858" height="12" fill="#1f6feb" opacity="0.35"/>
+<text x="277.57142857142856" y="729" font-size="10">152</text>
+<rect x="70" y="734" width="278.57142857142856" height="12" fill="#e5534b" opacity="1"/>
+<text x="352.57142857142856" y="744" font-size="10">208</text>
+<rect x="70" y="749" width="250.44642857142858" height="12" fill="#e5534b" opacity="0.35"/>
+<text x="324.44642857142856" y="759" font-size="10">187</text>
+<text x="62" y="806" text-anchor="end" font-size="13" font-weight="bold">NT</text>
+<rect x="70" y="776" width="159.375" height="12" fill="#1f6feb" opacity="1"/>
+<text x="233.375" y="786" font-size="10">119</text>
+<rect x="70" y="791" width="186.16071428571428" height="12" fill="#1f6feb" opacity="0.35"/>
+<text x="260.1607142857143" y="801" font-size="10">139</text>
+<rect x="70" y="806" width="160.71428571428572" height="12" fill="#e5534b" opacity="1"/>
+<text x="234.71428571428572" y="816" font-size="10">120</text>
+<rect x="70" y="821" width="188.83928571428572" height="12" fill="#e5534b" opacity="0.35"/>
+<text x="262.8392857142857" y="831" font-size="10">141</text>
+<text x="380.0" y="870" text-anchor="middle" font-size="10">Jugadas consecutivas dentro del Q3 (unos 800 cambios de jugada por equipo). Contorno negro = moda.</text>
+</svg>

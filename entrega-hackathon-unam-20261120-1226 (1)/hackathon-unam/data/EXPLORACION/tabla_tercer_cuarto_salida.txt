@@ -1,0 +1,64 @@
+================================================================================
+Del Q2 al Q3 (primera jugada del Q3 contra la ultima del Q2)
+
+Ofensiva (pares de jugadas: {'Local': 121, 'Visitante': 122})
+equipo    Local       Visitante      
+sentido  entran salen    entran salen
+posicion                             
+WR           52    86        61   107
+RB           64    57        58    53
+TE           64    42        75    36
+T             8    10         6     8
+G             3     4         6    10
+FB            8     3         7     1
+QB            3     2         2     3
+C             4     2         3     0
+
+Defensiva (pares de jugadas: {'Local': 122, 'Visitante': 121})
+equipo    Local       Visitante      
+sentido  entran salen    entran salen
+posicion                             
+DE           61    61        41    55
+DT           73    48        57    30
+OLB          50    56        43    42
+CB           21    62        22    60
+ILB          42    20        46    14
+NT           39     4        35     6
+SS            5    25         8    28
+FS            8    22         9    25
+MLB           7     8         5     7
+DB            1     0         1     0
+RB            0     1         0     0
+================================================================================
+Durante el Q3 (jugadas consecutivas)
+
+Ofensiva (pares de jugadas: {'Local': 793, 'Visitante': 800})
+equipo    Local       Visitante      
+sentido  entran salen    entran salen
+posicion                             
+WR          456   440       491   457
+TE          333   339       361   395
+RB          317   320       328   327
+FB           38    42        21    23
+T            13    15        16    16
+G             8     8         8    10
+C             4     5         8     5
+QB            7     7         2     2
+LB            1     1         0     0
+
+Defensiva (pares de jugadas: {'Local': 800, 'Visitante': 793})
+equipo    Local       Visitante      
+sentido  entran salen    entran salen
+posicion                             
+DE          428   418       448   448
+DT          371   388       339   348
+OLB         342   341       331   323
+CB          173   152       208   187
+NT          119   139       120   141
+ILB         107   121       107   127
+SS           85    79        87    75
+FS           57    53        77    69
+MLB          41    35        37    37
+RB            2     1         0     0
+DB            2     0         0     0
+G             0     0         1     0

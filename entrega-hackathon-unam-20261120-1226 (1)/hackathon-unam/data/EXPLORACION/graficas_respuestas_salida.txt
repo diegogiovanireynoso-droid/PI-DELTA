@@ -1,0 +1,27 @@
+Yardas por jugada (playResult) segun el equipo que ataca
+                     mean  median  size
+quarter equipo                        
+1       Local      6.380     4.0   922
+        Visitante  6.407     5.0   813
+2       Local      6.688     5.0  1246
+        Visitante  6.438     4.0  1195
+3       Local      6.694     5.0   915
+        Visitante  7.114     4.0   922
+4       Local      6.534     5.0  1239
+        Visitante  6.299     4.0  1207
+5       Local      7.932     2.5    44
+        Visitante  5.889     4.0    54
+
+Cuarto con mayor promedio del visitante: Q3
+
+Moda de la posicion que ENTRA / SALE durante el Q3 (conteo de jugadores)
+  Defensiva Local     entran: DE (428 de 1727 jugadores, 800 cambios de jugada)
+  Defensiva Local     salen : DE (418 de 1727 jugadores, 800 cambios de jugada)
+  Defensiva Visitante entran: DE (448 de 1755 jugadores, 793 cambios de jugada)
+  Defensiva Visitante salen : DE (448 de 1755 jugadores, 793 cambios de jugada)
+  Ofensiva  Local     entran: WR (456 de 1177 jugadores, 793 cambios de jugada)
+  Ofensiva  Local     salen : WR (440 de 1177 jugadores, 793 cambios de jugada)
+  Ofensiva  Visitante entran: WR (491 de 1235 jugadores, 800 cambios de jugada)
+  Ofensiva  Visitante salen : WR (457 de 1235 jugadores, 800 cambios de jugada)
+
+Graficas guardadas en C:\Users\Diego\Downloads\plantilla-hackathon\hackathon-unam\data\EXPLORACION\graficas

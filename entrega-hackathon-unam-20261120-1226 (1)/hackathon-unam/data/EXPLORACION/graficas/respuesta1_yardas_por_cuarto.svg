@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="420" font-family="Arial, sans-serif">
+<rect width="760" height="420" fill="white"/>
+<text x="380.0" y="24" text-anchor="middle" font-size="15" font-weight="bold">Yardas promedio por jugada del equipo que ataca, por cuarto</text>
+<line x1="60" x2="730" y1="350.0" y2="350.0" stroke="#ddd"/><text x="52" y="354.0" text-anchor="end" font-size="11">0</text>
+<line x1="60" x2="730" y1="315.88235294117646" y2="315.88235294117646" stroke="#ddd"/><text x="52" y="319.88235294117646" text-anchor="end" font-size="11">1</text>
+<line x1="60" x2="730" y1="281.7647058823529" y2="281.7647058823529" stroke="#ddd"/><text x="52" y="285.7647058823529" text-anchor="end" font-size="11">2</text>
+<line x1="60" x2="730" y1="247.6470588235294" y2="247.6470588235294" stroke="#ddd"/><text x="52" y="251.6470588235294" text-anchor="end" font-size="11">3</text>
+<line x1="60" x2="730" y1="213.52941176470588" y2="213.52941176470588" stroke="#ddd"/><text x="52" y="217.52941176470588" text-anchor="end" font-size="11">4</text>
+<line x1="60" x2="730" y1="179.41176470588235" y2="179.41176470588235" stroke="#ddd"/><text x="52" y="183.41176470588235" text-anchor="end" font-size="11">5</text>
+<line x1="60" x2="730" y1="145.2941176470588" y2="145.2941176470588" stroke="#ddd"/><text x="52" y="149.2941176470588" text-anchor="end" font-size="11">6</text>
+<line x1="60" x2="730" y1="111.1764705882353" y2="111.1764705882353" stroke="#ddd"/><text x="52" y="115.1764705882353" text-anchor="end" font-size="11">7</text>
+<line x1="60" x2="730" y1="77.05882352941177" y2="77.05882352941177" stroke="#ddd"/><text x="52" y="81.05882352941177" text-anchor="end" font-size="11">8</text>
+<rect x="76.08" y="131.40823529411767" width="48.239999999999995" height="218.59176470588233" fill="#e5534b" opacity="1"/>
+<text x="100.19999999999999" y="126.40823529411767" text-anchor="middle" font-size="11" font-weight="bold">6.41</text>
+<text x="100.19999999999999" y="364" text-anchor="middle" font-size="9">n=813</text>
+<rect x="128.32" y="132.32941176470587" width="48.239999999999995" height="217.67058823529413" fill="#1f6feb" opacity="0.45"/>
+<text x="152.44" y="127.32941176470587" text-anchor="middle" font-size="11" font-weight="bold">6.38</text>
+<text x="152.44" y="364" text-anchor="middle" font-size="9">n=922</text>
+<text x="127.0" y="382" text-anchor="middle" font-size="12">Q1</text>
+<rect x="210.07999999999998" y="130.3505882352941" width="48.239999999999995" height="219.6494117647059" fill="#e5534b" opacity="1"/>
+<text x="234.2" y="125.35058823529411" text-anchor="middle" font-size="11" font-weight="bold">6.44</text>
+<text x="234.2" y="364" text-anchor="middle" font-size="9">n=1195</text>
+<rect x="262.32" y="121.82117647058823" width="48.239999999999995" height="228.17882352941177" fill="#1f6feb" opacity="0.45"/>
+<text x="286.44" y="116.82117647058823" text-anchor="middle" font-size="11" font-weight="bold">6.69</text>
+<text x="286.44" y="364" text-anchor="middle" font-size="9">n=1246</text>
+<text x="261.0" y="382" text-anchor="middle" font-size="12">Q2</text>
+<rect x="330.0" y="60" width="130.0" height="290" fill="#fff4d6"/>
+<rect x="344.08" y="107.28705882352943" width="48.239999999999995" height="242.71294117647057" fill="#e5534b" opacity="1"/>
+<text x="368.2" y="102.28705882352943" text-anchor="middle" font-size="11" font-weight="bold">7.11</text>
+<text x="368.2" y="364" text-anchor="middle" font-size="9">n=922</text>
+<rect x="396.32" y="121.61647058823527" width="48.239999999999995" height="228.38352941176473" fill="#1f6feb" opacity="0.45"/>
+<text x="420.44" y="116.61647058823527" text-anchor="middle" font-size="11" font-weight="bold">6.69</text>
+<text x="420.44" y="364" text-anchor="middle" font-size="9">n=915</text>
+<text x="395.0" y="382" text-anchor="middle" font-size="12">Q3</text>
+<rect x="478.08" y="135.0929411764706" width="48.239999999999995" height="214.9070588235294" fill="#e5534b" opacity="1"/>
+<text x="502.2" y="130.0929411764706" text-anchor="middle" font-size="11" font-weight="bold">6.30</text>
+<text x="502.2" y="364" text-anchor="middle" font-size="9">n=1207</text>
+<rect x="530.3199999999999" y="127.07529411764708" width="48.239999999999995" height="222.92470588235292" fill="#1f6feb" opacity="0.45"/>
+<text x="554.4399999999999" y="122.07529411764708" text-anchor="middle" font-size="11" font-weight="bold">6.53</text>
+<text x="554.4399999999999" y="364" text-anchor="middle" font-size="9">n=1239</text>
+<text x="529.0" y="382" text-anchor="middle" font-size="12">Q4</text>
+<rect x="612.08" y="149.08117647058822" width="48.239999999999995" height="200.91882352941178" fill="#e5534b" opacity="1"/>
+<text x="636.2" y="144.08117647058822" text-anchor="middle" font-size="11" font-weight="bold">5.89</text>
+<text x="636.2" y="364" text-anchor="middle" font-size="9">n=54</text>
+<rect x="664.32" y="79.37882352941176" width="48.239999999999995" height="270.62117647058824" fill="#1f6feb" opacity="0.45"/>
+<text x="688.44" y="74.37882352941176" text-anchor="middle" font-size="11" font-weight="bold">7.93</text>
+<text x="688.44" y="364" text-anchor="middle" font-size="9">n=44</text>
+<text x="663.0" y="382" text-anchor="middle" font-size="12">Tiempo extra</text>
+<line x1="60" x2="60" y1="60" y2="350" stroke="black"/><line x1="60" x2="730" y1="350" y2="350" stroke="black"/>
+<rect x="60" y="398" width="12" height="12" fill="#e5534b"/><text x="77" y="408" font-size="11">Visitante ataca</text>
+<rect x="190" y="398" width="12" height="12" fill="#1f6feb" opacity="0.45"/><text x="207" y="408" font-size="11">Local ataca</text>
+<text x="310" y="408" font-size="11">Resaltado: Q3, el mejor promedio del visitante</text>
+</svg>
