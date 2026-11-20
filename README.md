@@ -1,2 +1,5 @@
 # PI-DELTA
 ENTREGA DEL EQUIPO PI-DELTA DEL NFL DATA BOWL 2026
+
+##NOTA:
+El VERDADERO README está dentro de entrega-hackathon-unam-20261120-1226.zip
